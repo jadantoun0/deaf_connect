@@ -47,14 +47,14 @@ git clone https://github.com/your-username/deafconnect.git
 ### Client Setup
 
 ```
-cd deafconnect/client
+cd client
 flutter pub get
 ```
 
 ### Server Setup
 
 ```
-cd deafconnect/server
+cd server
 pip install -r requirements.txt
 ```
 
@@ -63,14 +63,14 @@ pip install -r requirements.txt
 ### Running the Client
 
 ```
-cd deafconnect/client
+cd client
 flutter run
 ```
 
 ### Running the Server
 
 ```
-cd deafconnect/server
+cd server
 python app.py
 ```
 
