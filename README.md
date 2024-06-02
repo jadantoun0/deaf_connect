@@ -76,12 +76,11 @@ python main.py
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+Coming Soon! Stay Tuned!
 
 ## Demo
 
-[Link to Demo Video](https://www.youtube.com/watch?v=your-demo-video-id)
+Coming Soon! Stay Tuned!
 
 ## Contributing
 
@@ -95,7 +94,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 In conclusion, DeafConnect aims to bridge communication barriers for deaf individuals, providing them with a tool to engage more fully with the world around them.
 
-## Contact
-
-For any inquiries or suggestions, feel free to reach out to [Your Name](mailto:your-email@example.com).
-```
