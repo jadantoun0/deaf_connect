@@ -71,7 +71,7 @@ flutter run
 
 ```
 cd server
-python app.py
+python main.py
 ```
 
 ## Screenshots
